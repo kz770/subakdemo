@@ -9,6 +9,6 @@
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 <a href="mypage.do">마이페이지로 이동</a>
-<a href="signup.do">마이페이지로 이동</a>
+<a href="signup.do">회원가입으로 이동</a>
 </body>
 </html>

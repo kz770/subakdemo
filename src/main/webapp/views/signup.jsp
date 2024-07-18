@@ -12,10 +12,7 @@
 </head>
 <body>
 <h2>회원가입</h2>
-<form action="singup.do" method="post">
-    아이디 : <input type="text">
-    <input type="submit" value="회원가입하기">
-</form>
+
 
 </body>
 </html>
