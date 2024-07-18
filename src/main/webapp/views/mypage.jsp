@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-it's a mypage
+<h2>마이페이지</h2>
 </body>
 </html>
